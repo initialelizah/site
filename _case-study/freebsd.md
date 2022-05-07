@@ -11,3 +11,5 @@ tags:
   - freebsd
   - unix
 ---
+
+{% include cs-freebsd.md %}
