@@ -12,3 +12,5 @@ tags:
   - Unix
   - Plan9
 ---
+
+{% include bio-thompson.md %}
