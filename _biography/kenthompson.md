@@ -13,3 +13,4 @@ tags:
   - Plan9
 ---
 
+{% include bio-thompson.md %}
